@@ -1,0 +1,76 @@
+.calc{
+
+    width: 274px;
+    height: 435px;
+    background: black;
+    margin-left: 200px;
+    margin-top: 60px;
+    border-radius: 5%;
+
+}
+#screen{
+    width: 82%;
+    margin-left: 21px;
+    height: 75px;
+    margin-top: 18px;
+    pointer-events: none;
+    border-radius: 10%;
+    font-weight: 800;
+    font-size: 30px;
+    border-color: black;
+}
+.btn{
+    
+    width: 55px;
+    height: 55px;
+    margin-left: 8px;
+    margin-top: 8px;
+    background-color:dimgray;
+    border-radius: 50%;
+    font-size: 18px;
+    color: white;
+}
+
+.buttons{
+
+    height:1px;
+    width:26px;
+}
+.zerobtn{
+    width: 120px;
+    height: 60px;
+    border-radius: 30%;
+    margin-left: 10px;
+    background-color:dimgray;
+    font-size: 18px;
+    color: white;
+    font-weight: 700;
+}
+.output{
+
+    height: 110px;
+    width: 274px;
+   
+}
+.oprbtn{
+    background-color:rgb(255, 196, 0);
+    width: 55px;
+    height: 55px;
+    margin-left: 8px;
+    margin-top: 8px;
+    border-radius: 50%;
+    font-size: 18px;
+    color: white;
+    font-weight: 700;
+
+}
+.largebtn{
+
+    width: 120px;
+    height: 60px;
+    border-radius: 30%;
+    margin-left: 10px;
+    background-color: lightgray;
+    font-size: 25px;
+    font-weight: 700;
+}
